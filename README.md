@@ -2,6 +2,8 @@
 
 #### A microservice project, part of Free Code Camp's curriculum
 
+The project is live here -> [Exercise Tracker Microservice](https://exercise-tracker-fccapp.glitch.me/)
+
 ### User Stories
 
 1. I can create a user by posting form data username to /api/exercise/new-user and returned will be an object with username and _id.
